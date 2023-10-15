@@ -1,4 +1,4 @@
-Caesar Cipher. 
+<h2>Caesar Cipher</h2>
 
 A Caesar cipher, also known as a Caesar shift or a shift cipher, is one of the simplest and oldest methods of encryption. It is a type of substitution cipher in which each letter in the plaintext is shifted a fixed number of positions down or up the alphabet. This fixed number is often referred to as the "key" or "shift value."
 
